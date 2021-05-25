@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>corporation-corporation.service</module>
+        <module>corporation-service</module>
     </modules>
 
     <parent>
